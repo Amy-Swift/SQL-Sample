@@ -2,7 +2,7 @@
 
 This SQL File is a demonstration of basic SQL competency.
 
-It inclused:
+It includes:
 
 - Table creation
 - Addind entries to tables
